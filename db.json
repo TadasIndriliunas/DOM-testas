@@ -1,0 +1,180 @@
+{
+  "Apartment": [
+    {
+      "id": "0",
+      "type": "house",
+      "owner": {
+        "fullname": "Petras Gražulis",
+        "email": "petras.grazulis@mail.ru",
+        "phone": "+370652154669"
+      },
+      "roomCount": 5,
+      "squares": 198.36,
+      "address": {
+        "city": "Gargždai",
+        "country": "Lithuania",
+        "street": "Klaipėdos",
+        "number": 69
+      },
+      "price": {
+        "amount": 180000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_98439729/klaipedos-r-sav-gargzdu-m-gargzdupio-g.jpg"
+    },
+    {
+      "id": "1",
+      "type": "flat",
+      "owner": {
+        "fullname": "Algirdas Paleckis",
+        "email": "frontas@yandex.ru",
+        "phone": "+37061940061"
+      },
+      "roomCount": 2,
+      "squares": 60,
+      "address": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "street": "Antakalnio",
+        "number": 41
+      },
+      "price": {
+        "amount": 215775,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_100704717/vilnius-antakalnis-antakalnio-g.jpg"
+    },
+    {
+      "id": "2",
+      "type": "cottage",
+      "owner": {
+        "fullname": "Vytautas Šustauskas",
+        "email": "meras.chrysler@yandex.ru",
+        "phone": "+37063125698"
+      },
+      "roomCount": 4,
+      "squares": 160,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lithuania",
+        "street": "Alytaus",
+        "number": 15
+      },
+      "price": {
+        "amount": 95000,
+        "currency": "$"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_99458495/kaunas-romainiai-alytaus-g.jpg"
+    },
+    {
+      "id": "3",
+      "type": "house",
+      "owner": {
+        "fullname": "Arūnas Pukelis",
+        "email": "svinius@gmail.com",
+        "phone": "+37063102654"
+      },
+      "roomCount": 7,
+      "squares": 421,
+      "address": {
+        "city": "Tauragė",
+        "country": "Lithuania",
+        "street": "Naujakurių",
+        "number": 11
+      },
+      "price": {
+        "amount": 245000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_99194715/taurages-m-naujakuriu-g.jpg"
+    },
+    {
+      "id": "4",
+      "type": "flat",
+      "owner": {
+        "fullname": "Maksimas Alikovas",
+        "email": "maxasriklys@gmail.com",
+        "phone": "+37067423651"
+      },
+      "roomCount": 4,
+      "squares": 87.07,
+      "address": {
+        "city": "Šiauliai",
+        "country": "Lithuania",
+        "street": "Aido",
+        "number": 36
+      },
+      "price": {
+        "amount": 89000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_99993153/siauliai-dainiai-aido-g.jpg"
+    },
+    {
+      "id": "5",
+      "type": "house",
+      "owner": {
+        "fullname": "Henrikas Daktaras",
+        "email": "henyte@gmail.com",
+        "phone": "+37067423651"
+      },
+      "roomCount": 5,
+      "squares": 140,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lithuania",
+        "street": "E.Volterio",
+        "number": 36
+      },
+      "price": {
+        "amount": 225000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_100594763/kaunas-romainiai-e-volterio-g.jpg"
+    },
+    {
+      "id": "6",
+      "type": "house",
+      "owner": {
+        "fullname": "Rytis Cicinas",
+        "email": "princas.rytis@gmail.com",
+        "phone": "+37068425631"
+      },
+      "roomCount": 9,
+      "squares": 657,
+      "address": {
+        "city": "Kaunas",
+        "country": "Lithuania",
+        "street": "Želvos",
+        "number": 4
+      },
+      "price": {
+        "amount": 399000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_97653099/kaunas-zaliakalnis-zelvos-g.jpg"
+    },
+    {
+      "id": "7",
+      "type": "flat",
+      "owner": {
+        "fullname": "Romas Dambrauskas",
+        "email": "romka@gmail.com",
+        "phone": "+37062136548"
+      },
+      "roomCount": 2,
+      "squares": 49.5,
+      "address": {
+        "city": "Vilnius",
+        "country": "Lithuania",
+        "street": "Šeškinės",
+        "number": 30
+      },
+      "price": {
+        "amount": 137000,
+        "currency": "€"
+      },
+      "imgSrc": "https://aruodas-img.dgn.lt/object_62_99663855/vilnius-seskine-seskines-g.jpg"
+    }
+  ] 
+}
