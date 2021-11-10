@@ -1,0 +1,23 @@
+{
+  "name": "dom-testas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-win": "node_modules\\.bin\\json-server --watch db.json",
+    "start-unix": "node_modules/.bin/json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TadasIndriliunas/DOM-testas.git"
+  },
+  "author": "Tadas Indriliunas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TadasIndriliunas/DOM-testas/issues"
+  },
+  "homepage": "https://github.com/TadasIndriliunas/DOM-testas#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
